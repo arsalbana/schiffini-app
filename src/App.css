@@ -4,17 +4,7 @@
 .App {
   text-align: center;
 }
-.items{
-  font-family: 'Quicksand', sans-serif;
-  list-style: none;
-  background-color: #61dafb;
-  align-items: center;
-  justify-content: space-around;
-  display: flex;
-  flex-direction: row;
-  height: 50px;
 
-}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
