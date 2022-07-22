@@ -1,4 +1,7 @@
+
+import { Icon } from '@mui/material';
 import './NavBar.css';
+
 const NavBar = () => {
     return(
         <div className='nav'>
@@ -14,8 +17,10 @@ const NavBar = () => {
             <li>
                 <button className="boton">Contacto</button>
             </li>
-      
+            
             </ul>
+            <Icon>Cart</Icon>
+            
         </div>
     )    
 }
